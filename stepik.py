@@ -20,3 +20,7 @@ class DoublePairIterator:
             raise StopIteration
 
 
+if __name__ == '__main__':
+    test_1 = MyList([1, 2, 3, 4, 5])
+    for i in test_1:
+        print(i)
