@@ -55,3 +55,4 @@ if __name__ == '__main__':
 
     print(list(multifilter(a, mul2, mul3, mul5, judge=multifilter.judge_all)))
     # [0, 30]
+
